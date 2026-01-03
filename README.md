@@ -1,4 +1,6 @@
 # ETL GDP Data Pipeline (Python)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Last Commit](https://img.shields.io/github/last-commit/Riaz-Uddin-Etu/etl-gdp-data-pipeline)
 
 ## Overview
 This project implements an end-to-end ETL (Extract, Transform, Load) pipeline in Python to collect, process, and store GDP data for countries worldwide.
